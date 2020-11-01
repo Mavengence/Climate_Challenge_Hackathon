@@ -16,7 +16,7 @@ The reduction of personal CO2 emissions alone has shown to be not sufficient for
 
 ## Content
 
-- Python Notebook as [iPython](https://github.com/Mavengence/Climate_Challenge_Hackathon/Notebooks/get_data_eval_days.ipynb)
+- Python Notebook as [iPython](https://github.com/Mavengence/Climate_Challenge_Hackathon/blob/master/Notebooks/get_data_eval_days.ipynb)
 - Report/Paper as [PDF](https://github.com/Mavengence/Climate_Challenge_Hackathon/blob/master/Final_Report.pdf)
 - Presentation as [PDF](https://github.com/Mavengence/Climate_Challenge_Hackathon/blob/master/Final_Presentation.pdf)
 

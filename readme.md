@@ -14,7 +14,7 @@
 - Presentation as [PDF](https://github.com/Mavengence/Climate_Challenge_Hackathon/Final_Presentation.pdf)
 
 
-### Structure
+## Structure
 
 ```
 
@@ -43,7 +43,7 @@
 
 ```
 
-### Prerequisites
+## Prerequisites
 
 Create the conda environment:
 
@@ -58,7 +58,7 @@ if you dont create and environment, install this:
     pip install streamlit
 ```
 
-## Follow these steps:
+### Follow these steps:
 
 ##### Credentials.json
 
@@ -119,13 +119,21 @@ git clone https://github.com/Mavengence/Climate_Challenge_Hackathon
 <img src="Images/prototype.gif" width="1200" />
 </center>
 
-### Run the Notebook
+
+## Workflow
+
+When you click the button *Create Scheduler for next week*, an entry in the *Data/scheduler_df.csv* will be created for the upcoming week.
+For that reason you cannot create multiple events for the upcoming week. If you wanna re-do the event adding, just go into the *scheduler_df.csv* 
+and set the True to False.
+
+
+## Run the Notebook
 
 ```
     cd/you_cloned_repo_location/Notebooks jupyter notebook
 ```
 
-### Deployment
+## Deployment
 
 Just pull the repo, if you wanna change sth you can ask :)
 
